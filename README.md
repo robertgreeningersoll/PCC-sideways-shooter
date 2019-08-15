@@ -3,4 +3,5 @@
 
 
 **Sideways Shooter - Python Exercise Solution**
+
 [Solution to Sideways Shooter](https://github.com/robertgveeramani/Robert-G-Veeramani)
