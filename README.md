@@ -1,6 +1,6 @@
 ### my LinkedIn profile
-https://www.linkedin.com/in/robert-veeramani-b9195462/
+[myLinkedIn](https://www.linkedin.com/in/robert-veeramani-b9195462/)
 
 **python exercise solution**
-### Sideways Shooter**
-https://github.com/robertgveeramani/Robert-G-Veeramani
+### Sideways Shooter
+[link to solution](https://github.com/robertgveeramani/Robert-G-Veeramani)
