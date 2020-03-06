@@ -1,5 +1,5 @@
 ## My LinkedIn profile ##
-[Robert Green Ingersoll - LinkedIn]https://www.linkedin.com/in/robert-green-ingersoll-v-b9195462/
+[Robert Green Ingersoll - LinkedIn](https://www.linkedin.com/in/robert-green-ingersoll-v-b9195462/)
 
 
 
